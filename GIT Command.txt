@@ -1,0 +1,18 @@
+1. $ git init
+Reinitialized existing Git repository in H:/JAVA/Programs/GitDemo/.git/
+
+2. $ git status
+you will get all the files which we want to upload on local repository
+
+3. $ git add .
+we can add all the changes made in above files
+
+4. $ git commit -m "Create Number swapping project"
+Commit your Project 
+-m represent message . you can write message in " here..."
+
+5. $ git push
+
+6. $ git remote add origin https://github.com/PankajMM/GitDemoNumberSwapping
+
+7. $ git push --set-upstream origin master
