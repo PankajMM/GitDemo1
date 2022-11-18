@@ -15,4 +15,10 @@ Commit your Project
 
 6. $ git remote add origin https://github.com/PankajMM/GitDemoNumberSwapping
 
+	If we get error in above command then replace add with set-url 
+ $ git remote set-url origin https://github.com/PankajMM/GitDemoNumberSwapping
+					OR
+	If we get error in above command then replace origin with origin1
+$ git remote add origin1 https://github.com/PankajMM/GitDemoNumberSwapping
+	
 7. $ git push --set-upstream origin master
